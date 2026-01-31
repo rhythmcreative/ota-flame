@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1769507333,
-      "filename": "lineage-23.1-20260127-UNOFFICIAL-flame-signed.zip",
-      "id": "a5b9ded3cc9a92e4469a85204f7b4500",
+      "datetime": 1769874350,
+      "filename": "lineage-23.2-20260131-Unofficial-flame-signed.zip",
+      "id": "b3a5da5bded4a7dacf39e285fdb72358dc489f2034e4439806f9cd18d8631eba",
       "romtype": "unofficial",
-      "size": 1565437660,
-      "url": "https://github.com/rhythmcreative/ota-flame/releases/download/v20260127/lineage-23.1-20260127-UNOFFICIAL-flame-signed.zip",
-      "version": "23.1"
+      "size": 1346672737,
+      "url": "https://github.com/rhythmcreative/ota-flame/releases/download/v20260131/lineage-23.2-20260131-Unofficial-flame-signed.zip",
+      "version": "23.2"
     }
   ]
 }
